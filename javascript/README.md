@@ -6,3 +6,5 @@
 
 ### [two-fer](two-fer/README.md)
 
+### [protein-translation](protein-translation/README.md)
+
