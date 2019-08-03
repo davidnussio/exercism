@@ -8,3 +8,5 @@
 
 ### [protein-translation](protein-translation/README.md)
 
+### [resistor-color](resistor-color/README.md)
+
